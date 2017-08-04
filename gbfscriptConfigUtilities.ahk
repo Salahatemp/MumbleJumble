@@ -18,14 +18,14 @@ global maxBattles := 999
 global maxBattles := maxBattles * waitResultMax
 
 ;Coordinates
-global coop_refresh_X := 120
-global coop_refresh_Y := 575
+global coop_refresh_X := 94
+global coop_refresh_Y := 450
 
 global pending_first_X := 360
 global pending_first_Y := 360
 
-global vmate_icon_X := 605
-global vmate_icon_Y := 70
+global vmate_icon_X := 283
+global vmate_icon_Y := -12
 
 global vmate_joinraid_X := 130
 global vmate_joinraid_Y := 30
@@ -36,11 +36,11 @@ global vmate_refill_Y := 140
 global vmate_ok_X := 150
 global vmate_ok_Y := 500
 
-global last_hosted_X := 580
-global last_hosted_Y := 760
+global last_hosted_X := 417
+global last_hosted_Y := 579
 
-global attack_button_X := 525
-global attack_button_Y := 575
+global attack_button_X := 342
+global attack_button_Y := 441
 
 global join_confirm_X := 500
 global join_confirm_Y := 820
@@ -148,8 +148,8 @@ global repeatQuestURL := "http://game.granbluefantasy.jp/#event/teamraid031/supp
 global rabbitURL:= "http://game.granbluefantasy.jp/#quest/supporter/713431/0"
 global pendingURL := "http://game.granbluefantasy.jp/#quest/assist/unclaimed"
 
-global GBF_winHeight := 1080
-global GBF_winWidth := 700
+global GBF_winHeight := 860
+global GBF_winWidth := 519
 global coordinateMultiplier := 1
 
 
